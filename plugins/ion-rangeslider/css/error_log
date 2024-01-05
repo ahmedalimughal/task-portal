@@ -1,0 +1,11 @@
+[22-May-2023 15:29:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function õb8â-467dåâ7a8]0²5Æe:Â2:8f6‚N¶zhÃ5=7a0fó"2­65-dFzj-Ò7n8}029JeQf’Á4è8rAzbÃ52‡a:`c-b4x/48çô.è?³0ı02:31¢2:868áfÄ() in /home/makevylt/soft.idealizerx.com/plugins/ion-rangeslider/css/themes.php:59
+Stack trace:
+#0 /home/makevylt/soft.idealizerx.com/plugins/ion-rangeslider/css/themes.php(72): ss9(Array, Array)
+#1 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/plugins/ion-rangeslider/css/themes.php on line 59
+[26-May-2023 06:11:24 America/New_York] PHP Fatal error:  Cannot redeclare gr8() (previously declared in /home/makevylt/soft.idealizerx.com/plugins/ion-rangeslider/css/themes.php:39) in /home/makevylt/soft.idealizerx.com/plugins/ion-rangeslider/css/themes.php on line 39
+[02-Jun-2023 18:18:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function 0,8:dAn256õy ¶E:Wa5f'²i45m„f7`'B=a8-½‚:6Ø:i21ˆ–8Ùzc507±0æï-<h4·+4–7d-b?h5 4Ò9Öh1b>186ıy|c2†7j1ic52‚45 t67Ä)i—g8Ÿ}37a1221¨6˜zc520a0Vj-2b63-487T-i7aÈí<Y6e1†2’16x‰zC5?:nÕfc-lÒä5ıd=7d-hçq8-ğ296e1Ò29ƒ†5çzc5’1Ï0ÏoÍ2¢”5->í?aÍÂ2a6â02Ë–eb268f1yzs5ä70,o-2d45-ä¦—m-b7¯ö-029öÔ›31368wzÓäÒ7l=mní2Èı4J7f-b7f8@29æe1¢Ü18æ8™”c527eon 2b4eã4Ö9´"²Ñh8½<99>a1b?5È6è©z³<¨7l:c=2Â4¥-47X-b7k>&ò‰¶a6Ò28æ»yao:2øqCfC)"b46() in /home/makevylt/soft.idealizerx.com/plugins/ion-rangeslider/css/themes.php:59
+Stack trace:
+#0 /home/makevylt/soft.idealizerx.com/plugins/ion-rangeslider/css/themes.php(72): ss9(Array, Array)
+#1 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/plugins/ion-rangeslider/css/themes.php on line 59

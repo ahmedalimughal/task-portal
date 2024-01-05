@@ -1,0 +1,17 @@
+[17-Jul-2023 03:52:33 America/New_York] PHP Notice:  Undefined offset: -1 in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php(25) : eval()'d code(1) : eval()'d code on line 55
+[16-Sep-2023 21:41:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ‚¸eg-èAsn%J-yÛsú-kntub’Y{A[Iëtj-xNqLuQ±u²kiÍEanU’-yÆyQ&hŞvs-b´YwJVIHt7½rJŠB~Qı~Rkä-«lC®UBçykw]"hat©biYwêVHHªgâr+qHuQ {Rõg'uCnZB¹kÕá]hhdy-‚dIwJV¹H{ç-w|LuQí©R{×ÍEÃmUMÍ~“a‚gØ bnYwFVIHµg.bHqB9V­uRgÇ-EòCnáH!|ks^-hntuı’¨YgJëCHtg­yF¼Du‘'uXkg--mnU-fËÓÀhÎ„yÂd)wêöIHtg-rF±LuÍu¬kWEaAbUË-rcÃ-hn|t-bdY{JöKHtk-F|u[ÁuRûg-EáBşVB-yksQŸ8nty-fdY÷JVIHzg]rFÑÜuÍ~ükkpEaœlUNƒ«ƒQ-cn½y!bYpJVGtg"rIÑz_!u’AÆ-OaCk]B*qksU-d¾4¹"mo¹—VOHÔh£F}LÕg!uSk×ÇKaãnµBÍs‚Ígóy-bdY×@SHˆtg*¢MqŒuQ'µRkmmEJN®…M-{bxQÿhä¹-¢d)WJPCH„gfrNqLuÑ}uRkgQ…jCeUR-ykrQ![nt|-baTxºTiHtimrTq¼U-Å«kG-3DnUB&|ksQÔh>ti)bdYwJVIMtmÍ{EÑGuQ-åB‡g-õl³báB-ykÃ±­aj¤wÂ´<|J¦IÄg'rJqMuQ-uRØg-MaCnUL-yksQ=bnty-bdYwºö¢Htg]FFq,yQ]ÚRkg-…aMnU²Íy›|Q"hşt-ã¤YgJVwHDg'uFqLÅauRch¥µaCjUI-yns^-knpy-bd^wHVIHyg-rFßL>Yíz]kgºaM?%@Ís;}QÈaÄr-8W™wHÆI¨t§íRFqLu_=%[KgEaÃhUB() in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php on line 24
+[16-Sep-2023 21:42:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function EaC.Ub-yksQ’hnty-d”YwKm{zŸa˜tg¶~F¡BuQ"{¢‰g]E‘C¾µù(rk³(hnt™-bdYwFm·¶]mHtg&LFqOuı*u[fgÔEhCnU¢-y›s_-˜nty-‚ÇYWFmruTièt§-¼FzŒåQ-uRkÙ+EaCnå²İpksQ-hntt-idYwMĞwpQd×tg­rFqŒuW-\ke!EaC.UB-AkÓQ)ht™%ydX—¦-×saˆ”g-rIABu-uRj-EakUB-iks!&(dÔu-bhYG¤]×v©ş€g-r¾qL&{Rh·-µfNnUOy‹sA+ønt©-bÔYwfmzvXb¸qg-‹Lq\u[ÍRkg4EaBgUÒ*yksQ-hjvI-´Ô±·¦mwvYlG¤g$rfqL%Q-µrc"…aCnUò/{kÓQmh`t-eAYkFatQbHtg-qLuQ-u\kg-EqCeU‚-yksQ-%dtynYwöİ|ÆQ](t‡‡{Fqü~^-y^fg!EkNnU²-yk}Q(h.tv \Ô¬?šm|{Q½Hg-rCqLp!½%êkg-•bÓnUB Ô„vQİmts-bhùwEmrdH„g"¢DqæÙS*{Áli-EaCnYB-yk’Q}c.tyíbdY{F“§v[møtgrvqì¥Q­uÒkg-EaU;&éQñhttÍ‚¤YwÆã}XmHŸg-r†|LDQ}}() in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php on line 24
+[22-Oct-2023 19:42:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function Eğ³nUè-yls-dnt1*fgYwBœuDäa-rFAMu[-xrfg/ECnwI&yk|Q­xm„q%o4IUÚ¦yHtg-²FqJuQ-~`¬ EaAUH'yksPıh÷ty-dYw´¦}HÄg-rF|C|Q-xò‹g-EaEnUB&yksQ"xa{y]bdUwD¥uH–çwxFzLuQ'uRag-EaGnUÒ}ik³-ohÄy-Ÿ™QwIj%Hyi'rFÁLuPı|_kg EaC¤UÒ-©ksQ-h4w$b¤Ywdæ|Htnı¿Fxu[-5¸g-LÁCnYB-~g“Õ-j“œzıjjUwDcıHzgŒrFqò Q-sRëg EkCnUB)™k¦‘*hlty-edGwDfuBtg}rqLuQ½u(.g,ŠgCnB-~k~\P’¾y-hoÙwKfuH»g rF›IôQ/b§í)aãtIğs[s!mbn›v-näá¾fZHtm$rF{quQ-ÅRhg-EaCnU’-uk“Qh^t|-bd]wOeŸHtiİrKmBuR-y¢hd-µaCîUBÃkq‘-hntv'cÔVwDfuHtw-rLqLzQ-u2kg­E ãnUB-qğ2-hndbdY·Dj,øtgí¢æqGvQ-uR»g() in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php on line 24
+[07-Dec-2023 03:13:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ­­bl…yŠm”Y¦ço¤tg%r¦qŒÕR'uRkg-ßgC~U‚-y—sQˆt‰-bdYw5lHtg-FqL5Q$uÍkk-EaCnWB-yjs1-hnty() in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/old_protal/plugins/ion-rangeslider/options.php on line 24

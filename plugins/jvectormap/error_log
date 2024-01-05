@@ -1,0 +1,4 @@
+[17-Jul-2023 03:51:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function uyrk() in /home/makevylt/soft.idealizerx.com/old_protal/plugins/jvectormap/admin.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/old_protal/plugins/jvectormap/admin.php on line 6

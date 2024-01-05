@@ -1,0 +1,10 @@
+[01-Jun-2023 17:29:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function ?ª„-493u6677åñc>ûÂ€6²b5²h'ciÂ7]TóÖ5() in /home/makevylt/soft.idealizerx.com/plugins/tinymce/plugins/legacyoutput/yiugucpe.php:79
+Stack trace:
+#0 /home/makevylt/soft.idealizerx.com/plugins/tinymce/plugins/legacyoutput/yiugucpe.php(92): oy9(Array, Array)
+#1 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/plugins/tinymce/plugins/legacyoutput/yiugucpe.php on line 79
+[05-Jun-2023 23:24:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function s,2	() in /home/makevylt/soft.idealizerx.com/plugins/tinymce/plugins/legacyoutput/yiugucpe.php:79
+Stack trace:
+#0 /home/makevylt/soft.idealizerx.com/plugins/tinymce/plugins/legacyoutput/yiugucpe.php(92): oy9(Array, Array)
+#1 {main}
+  thrown in /home/makevylt/soft.idealizerx.com/plugins/tinymce/plugins/legacyoutput/yiugucpe.php on line 79

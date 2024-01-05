@@ -1,0 +1,66 @@
+[13-Dec-2022 17:11:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 102
+[13-Dec-2022 17:11:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 102
+[13-Dec-2022 17:11:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 102
+[13-Dec-2022 17:11:25 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 102
+[13-Dec-2022 17:16:54 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:17:44 UTC] PHP Parse error:  syntax error, unexpected 'date_format' (T_STRING), expecting ';' or ',' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:18:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:20:18 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ']' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:20:28 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:11 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:13 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:14 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:14 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:15 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:15 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:15 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:18 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 17:22:34 UTC] PHP Parse error:  syntax error, unexpected 'F' (T_STRING), expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 109
+[13-Dec-2022 23:36:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 106
+[13-Dec-2022 23:36:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 106
+[14-Dec-2022 00:07:02 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting '(' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 107
+[14-Dec-2022 00:07:28 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting '(' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 107
+[14-Dec-2022 00:08:03 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting '(' in /home/devu1onlinetest/public_html/unit-1/pages/developer/task-details.php on line 107
+[17-Dec-2022 04:24:10 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[17-Dec-2022 04:24:10 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[17-Dec-2022 04:24:10 Asia/karachi] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 20:21:44 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 20:21:44 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 20:21:44 Asia/karachi] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:42:09 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:42:09 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:42:09 Asia/karachi] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:42:59 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:42:59 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:42:59 Asia/karachi] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:43:01 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:43:01 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:43:01 Asia/karachi] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:44:51 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:44:51 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[18-Dec-2022 21:44:51 Asia/karachi] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[20-Dec-2022 05:14:53 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[20-Dec-2022 05:14:53 Asia/karachi] PHP Warning:  include(includes/footer.html): failed to open stream: No such file or directory in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[20-Dec-2022 05:14:53 Asia/karachi] PHP Warning:  include(): Failed opening 'includes/footer.html' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/devu1onlinetest/public_html/unit-1/pages/developer/index.php on line 98
+[29-Dec-2022 23:36:26 UTC] PHP Parse error:  syntax error, unexpected 'Confirmed' (T_STRING) in /home/devu1onlinetest/public_html/unit-1/pages/users/task-details.php on line 176
+[04-Jan-2023 16:59:28 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 16:59:32 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 16:59:33 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 16:59:34 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 16:59:35 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 16:59:35 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 16:59:36 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 16:59:36 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 16:59:36 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[04-Jan-2023 17:00:19 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/devu1onlinetest/public_html/unit-1/pages/users/update_task_action.php on line 12
+[09-Jan-2023 13:20:43 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[24-Jan-2023 04:57:33 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[27-Jan-2023 03:38:35 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[27-Jan-2023 03:39:13 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[09-Mar-2023 16:41:36 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[20-Mar-2023 18:00:15 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[20-Mar-2023 18:43:48 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[20-Mar-2023 18:44:08 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[20-Mar-2023 18:44:20 Asia/karachi] PHP Notice:  Undefined variable: id in /home/devu1onlinetest/public_html/unit-1/pages/users/user-profile-edit.php on line 136
+[04-Apr-2023 23:51:41 Asia/karachi] PHP Notice:  Undefined variable: id in /home/makevylt/soft.idealizerx.com/pages/users/user-profile-edit.php on line 136
+[14-Aug-2023 01:36:36 America/New_York] PHP Notice:  Undefined offset: -1 in /tmp/2415649015 on line 93
